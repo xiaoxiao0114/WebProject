@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <weburl>http://39.104.102.161:8899/pzcatering-web/login.do</weburl>
+    <webusername>admin</webusername>
+    <webpwd>13021302</webpwd>
+    <loginErrorMsg msg1="用户名或密码错误"></loginErrorMsg>
+
+    <omsurl>http://192.168.1.222:8899/pzcatering-oms/login.do</omsurl>
+    <omsUsername>admin</omsUsername>
+    <omsPwd>123456</omsPwd>
+    <omsAfterLoginUrl>http://192.168.1.222:8899/pzcatering-oms/index.do</omsAfterLoginUrl>
+</root>
